@@ -44,7 +44,7 @@
 Intimidate1Command = {
 	name = "intimidate1",
 
-	damageMultiplier = 0,
+	damageMultiplier = 1,
 	speedMultiplier = 1,
 	healthCostMultiplier = 0,
 	actionCostMultiplier = 0,
